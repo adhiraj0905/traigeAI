@@ -1,7 +1,7 @@
 # TriageAI: Automated Support Orchestrator
 
 **Track:** Enterprise Agents
-**Model:** Gemini 1.5 Flash
+**Model:** Gemini 2.5 Flash
 **Status:** Prototype
 
 ## 📖 Overview
